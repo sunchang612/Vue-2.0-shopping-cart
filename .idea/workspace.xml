@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f151c494-f569-4d97-9610-db93313cbb95" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterPath="$PROJECT_DIR$/shopping/bootstrap/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/Gruntfile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/shopping/bootstrap/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterPath="$PROJECT_DIR$/shopping/bootstrap/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/dist/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/shopping/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/shopping/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/shopping/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/shopping/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/shopping/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/.jshintrc" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/.jshintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/change-version.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/change-version.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/configBridge.json" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/configBridge.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/npm-shrinkwrap.json" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/npm-shrinkwrap.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/shopping/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/affix.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/alert.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/alert.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/button.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/button.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/collapse.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/collapse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dropdown.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/modal.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/modal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/popover.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/popover.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/scrollspy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tab.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/tab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/transition.js" afterPath="$PROJECT_DIR$/shopping/bootstrap/js/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/alerts.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/alerts.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/badges.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/badges.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/bootstrap.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/breadcrumbs.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/button-groups.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/button-groups.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/buttons.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/buttons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/carousel.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/carousel.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/close.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/close.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/code.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/code.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/component-animations.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/component-animations.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/dropdowns.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/dropdowns.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/forms.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/forms.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/glyphicons.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/glyphicons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/grid.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/input-groups.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/jumbotron.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/jumbotron.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/labels.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/labels.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/list-group.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/list-group.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/media.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/media.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/alerts.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/background-variant.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/border-radius.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/buttons.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/center-block.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/clearfix.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/forms.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/forms.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/gradients.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/grid-framework.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/grid.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/hide-text.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/image.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/image.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/labels.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/labels.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/list-group.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/nav-divider.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/opacity.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/pagination.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/panels.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/panels.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/progress-bar.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/reset-filter.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/reset-text.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/resize.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/resize.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/size.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/size.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/tab-focus.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/table-row.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/text-overflow.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/modals.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/modals.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navbar.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/navbar.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navs.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/navs.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/normalize.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/normalize.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pager.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/pager.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pagination.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/pagination.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/panels.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/popovers.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/popovers.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/print.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/print.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/progress-bars.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/progress-bars.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-embed.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/responsive-embed.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/responsive-utilities.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/scaffolding.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/scaffolding.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tables.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/tables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/theme.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/theme.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/thumbnails.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/thumbnails.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tooltip.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/tooltip.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/type.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/type.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/utilities.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/utilities.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/variables.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/wells.less" afterPath="$PROJECT_DIR$/shopping/bootstrap/less/wells.less" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterPath="$PROJECT_DIR$/shopping/bootstrap/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/capture-stack-trace/index.js" afterPath="$PROJECT_DIR$/shopping/capture-stack-trace/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/capture-stack-trace/package.json" afterPath="$PROJECT_DIR$/shopping/capture-stack-trace/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/capture-stack-trace/readme.md" afterPath="$PROJECT_DIR$/shopping/capture-stack-trace/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/create-error-class/index.js" afterPath="$PROJECT_DIR$/shopping/create-error-class/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/create-error-class/license" afterPath="$PROJECT_DIR$/shopping/create-error-class/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/create-error-class/package.json" afterPath="$PROJECT_DIR$/shopping/create-error-class/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/create-error-class/readme.md" afterPath="$PROJECT_DIR$/shopping/create-error-class/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/duplexer3/LICENSE.md" afterPath="$PROJECT_DIR$/shopping/duplexer3/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/duplexer3/README.md" afterPath="$PROJECT_DIR$/shopping/duplexer3/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/duplexer3/index.js" afterPath="$PROJECT_DIR$/shopping/duplexer3/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/duplexer3/package.json" afterPath="$PROJECT_DIR$/shopping/duplexer3/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/get-stream/buffer-stream.js" afterPath="$PROJECT_DIR$/shopping/get-stream/buffer-stream.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/get-stream/index.js" afterPath="$PROJECT_DIR$/shopping/get-stream/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/get-stream/license" afterPath="$PROJECT_DIR$/shopping/get-stream/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/get-stream/package.json" afterPath="$PROJECT_DIR$/shopping/get-stream/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/get-stream/readme.md" afterPath="$PROJECT_DIR$/shopping/get-stream/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/got/index.js" afterPath="$PROJECT_DIR$/shopping/got/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/got/license" afterPath="$PROJECT_DIR$/shopping/got/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/got/package.json" afterPath="$PROJECT_DIR$/shopping/got/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/got/readme.md" afterPath="$PROJECT_DIR$/shopping/got/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-redirect/index.js" afterPath="$PROJECT_DIR$/shopping/is-redirect/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-redirect/license" afterPath="$PROJECT_DIR$/shopping/is-redirect/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-redirect/package.json" afterPath="$PROJECT_DIR$/shopping/is-redirect/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-redirect/readme.md" afterPath="$PROJECT_DIR$/shopping/is-redirect/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-retry-allowed/index.js" afterPath="$PROJECT_DIR$/shopping/is-retry-allowed/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-retry-allowed/license" afterPath="$PROJECT_DIR$/shopping/is-retry-allowed/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-retry-allowed/package.json" afterPath="$PROJECT_DIR$/shopping/is-retry-allowed/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-retry-allowed/readme.md" afterPath="$PROJECT_DIR$/shopping/is-retry-allowed/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-stream/index.js" afterPath="$PROJECT_DIR$/shopping/is-stream/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-stream/license" afterPath="$PROJECT_DIR$/shopping/is-stream/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-stream/package.json" afterPath="$PROJECT_DIR$/shopping/is-stream/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/is-stream/readme.md" afterPath="$PROJECT_DIR$/shopping/is-stream/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/lowercase-keys/index.js" afterPath="$PROJECT_DIR$/shopping/lowercase-keys/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/lowercase-keys/package.json" afterPath="$PROJECT_DIR$/shopping/lowercase-keys/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/lowercase-keys/readme.md" afterPath="$PROJECT_DIR$/shopping/lowercase-keys/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/prepend-http/index.js" afterPath="$PROJECT_DIR$/shopping/prepend-http/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/prepend-http/license" afterPath="$PROJECT_DIR$/shopping/prepend-http/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/prepend-http/package.json" afterPath="$PROJECT_DIR$/shopping/prepend-http/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/prepend-http/readme.md" afterPath="$PROJECT_DIR$/shopping/prepend-http/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/.travis.yml" afterPath="$PROJECT_DIR$/shopping/safe-buffer/.travis.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/LICENSE" afterPath="$PROJECT_DIR$/shopping/safe-buffer/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/README.md" afterPath="$PROJECT_DIR$/shopping/safe-buffer/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/browser.js" afterPath="$PROJECT_DIR$/shopping/safe-buffer/browser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/index.js" afterPath="$PROJECT_DIR$/shopping/safe-buffer/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterPath="$PROJECT_DIR$/shopping/safe-buffer/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/safe-buffer/test.js" afterPath="$PROJECT_DIR$/shopping/safe-buffer/test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/timed-out/index.js" afterPath="$PROJECT_DIR$/shopping/timed-out/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/timed-out/license" afterPath="$PROJECT_DIR$/shopping/timed-out/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/timed-out/package.json" afterPath="$PROJECT_DIR$/shopping/timed-out/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/timed-out/readme.md" afterPath="$PROJECT_DIR$/shopping/timed-out/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/unzip-response/index.js" afterPath="$PROJECT_DIR$/shopping/unzip-response/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/unzip-response/license" afterPath="$PROJECT_DIR$/shopping/unzip-response/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/unzip-response/package.json" afterPath="$PROJECT_DIR$/shopping/unzip-response/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/unzip-response/readme.md" afterPath="$PROJECT_DIR$/shopping/unzip-response/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/url-parse-lax/index.js" afterPath="$PROJECT_DIR$/shopping/url-parse-lax/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/url-parse-lax/license" afterPath="$PROJECT_DIR$/shopping/url-parse-lax/license" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/url-parse-lax/package.json" afterPath="$PROJECT_DIR$/shopping/url-parse-lax/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/url-parse-lax/readme.md" afterPath="$PROJECT_DIR$/shopping/url-parse-lax/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/.github/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/shopping/vue-resource/.github/ISSUE_TEMPLATE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/.npmignore" afterPath="$PROJECT_DIR$/shopping/vue-resource/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/LICENSE" afterPath="$PROJECT_DIR$/shopping/vue-resource/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/README.md" afterPath="$PROJECT_DIR$/shopping/vue-resource/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/dist/README.md" afterPath="$PROJECT_DIR$/shopping/vue-resource/dist/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/dist/vue-resource.common.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/dist/vue-resource.common.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/dist/vue-resource.es2015.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/dist/vue-resource.es2015.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/dist/vue-resource.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/dist/vue-resource.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/dist/vue-resource.min.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/dist/vue-resource.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/package.json" afterPath="$PROJECT_DIR$/shopping/vue-resource/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/client/index.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/client/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/client/jsonp.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/client/jsonp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/client/node.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/client/node.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/client/xdr.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/client/xdr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/client/xhr.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/client/xhr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/headers.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/headers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/index.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/before.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/before.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/body.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/body.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/cors.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/cors.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/header.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/header.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/jsonp.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/jsonp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/interceptor/method.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/interceptor/method.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/request.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/request.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/http/response.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/http/response.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/index.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/lib/promise.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/lib/promise.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/lib/url-template.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/lib/url-template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/promise.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/promise.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/resource.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/resource.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/url/index.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/url/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/url/query.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/url/query.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/url/root.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/url/root.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/url/template.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/url/template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/src/util.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/src/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/data/invalid.json" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/data/invalid.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/data/text.txt" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/data/text.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/data/valid.json" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/data/valid.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/http.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/http.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/http.test.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/http.test.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/index.html" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/index.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/promise.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/promise.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/resource.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/resource.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/specs.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/specs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/url.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/url.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/test/webpack.config.js" afterPath="$PROJECT_DIR$/shopping/vue-resource/test/webpack.config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue-resource/yarn.lock" afterPath="$PROJECT_DIR$/shopping/vue-resource/yarn.lock" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/LICENSE" afterPath="$PROJECT_DIR$/shopping/vue/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/README.md" afterPath="$PROJECT_DIR$/shopping/vue/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/README.md" afterPath="$PROJECT_DIR$/shopping/vue/dist/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.common.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.common.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.esm.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.esm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.min.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.common.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.runtime.common.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.esm.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.runtime.esm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.runtime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/dist/vue.runtime.min.js" afterPath="$PROJECT_DIR$/shopping/vue/dist/vue.runtime.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/package.json" afterPath="$PROJECT_DIR$/shopping/vue/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/codegen/events.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/codegen/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/codegen/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/codegen/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/directives/bind.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/directives/bind.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/directives/model.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/directives/model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/error-detector.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/error-detector.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/helpers.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/helpers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/optimizer.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/optimizer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/entity-decoder.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/parser/entity-decoder.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/filter-parser.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/parser/filter-parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/html-parser.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/parser/html-parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/parser/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/text-parser.js" afterPath="$PROJECT_DIR$/shopping/vue/src/compiler/parser/text-parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/components/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/components/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/components/keep-alive.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/components/keep-alive.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/config.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/config.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/assets.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/global-api/assets.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/extend.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/global-api/extend.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/global-api/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/mixin.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/global-api/mixin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/use.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/global-api/use.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/events.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/init.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/init.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/inject.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/inject.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/lifecycle.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/lifecycle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/proxy.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/proxy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/bind-object-props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/bind-object-props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/check-keycodes.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/check-keycodes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/render-list.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/render-list.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/render-slot.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/render-slot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/render-static.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/render-static.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/resolve-filter.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/resolve-filter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render-helpers/resolve-slots.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render-helpers/resolve-slots.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/render.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/instance/state.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/instance/state.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/observer/array.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/observer/array.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/observer/dep.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/observer/dep.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/observer/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/observer/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/observer/scheduler.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/observer/scheduler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/observer/watcher.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/observer/watcher.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/debug.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/debug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/env.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/env.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/error.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/error.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/lang.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/lang.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/options.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/options.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/perf.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/perf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/util/props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/util/props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/create-component.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/create-component.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/create-element.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/create-element.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/create-functional-component.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/create-functional-component.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/extract-props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/extract-props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/get-first-component-child.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/get-first-component-child.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/merge-hook.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/merge-hook.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/normalize-children.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/normalize-children.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/resolve-async-component.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/resolve-async-component.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers/update-listeners.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/helpers/update-listeners.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/directives.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/modules/directives.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/ref.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/modules/ref.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/patch.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/patch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/vnode.js" afterPath="$PROJECT_DIR$/shopping/vue/src/core/vdom/vnode.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/html.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/directives/html.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/model.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/directives/model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/text.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/directives/text.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/modules/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/modules/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/compiler/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime-with-compiler.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime-with-compiler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/class-util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/class-util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/components/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/transition-group.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/components/transition-group.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/transition.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/components/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/model.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/directives/model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/show.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/directives/show.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/attrs.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/attrs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/dom-props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/dom-props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/events.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/transition.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/modules/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/node-ops.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/node-ops.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/patch.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/patch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/transition-util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/runtime/transition-util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server-renderer.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server-renderer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/directives/show.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/directives/show.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/attrs.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/modules/attrs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/modules/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/dom-props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/modules/dom-props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/modules/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/server/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/attrs.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/attrs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/compat.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/compat.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/element.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/element.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/web/util/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/directives/model.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/directives/model.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/modules/append.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/modules/append.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/modules/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/modules/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/modules/props.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/modules/props.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/compiler/modules/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/compiler/modules/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/framework.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/framework.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime-factory.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime-factory.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/components/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/components/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/components/transition-group.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/components/transition-group.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/components/transition.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/components/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/directives/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/directives/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/attrs.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/attrs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/class.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/class.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/events.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/events.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/style.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/style.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/modules/transition.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/modules/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/node-ops.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/node-ops.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/patch.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/patch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/runtime/text-node.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/runtime/text-node.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/platforms/weex/util/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/platforms/weex/util/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/create-bundle-renderer.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/bundle-renderer/create-bundle-renderer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/create-bundle-runner.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/bundle-renderer/create-bundle-runner.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/bundle-renderer/source-map-support.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/bundle-renderer/source-map-support.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/create-renderer.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/create-renderer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/render-context.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/render-context.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/render-stream.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/render-stream.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/render.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/render.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/create-async-file-mapper.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/template-renderer/create-async-file-mapper.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/index.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/template-renderer/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/parse-template.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/template-renderer/parse-template.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/template-renderer/template-stream.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/template-renderer/template-stream.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/webpack-plugin/client.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/webpack-plugin/client.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/webpack-plugin/server.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/webpack-plugin/server.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/webpack-plugin/util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/webpack-plugin/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/server/write.js" afterPath="$PROJECT_DIR$/shopping/vue/src/server/write.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/sfc/parser.js" afterPath="$PROJECT_DIR$/shopping/vue/src/sfc/parser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/shared/constants.js" afterPath="$PROJECT_DIR$/shopping/vue/src/shared/constants.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/src/shared/util.js" afterPath="$PROJECT_DIR$/shopping/vue/src/shared/util.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/types/index.d.ts" afterPath="$PROJECT_DIR$/shopping/vue/types/index.d.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/types/options.d.ts" afterPath="$PROJECT_DIR$/shopping/vue/types/options.d.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/types/plugin.d.ts" afterPath="$PROJECT_DIR$/shopping/vue/types/plugin.d.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/types/vnode.d.ts" afterPath="$PROJECT_DIR$/shopping/vue/types/vnode.d.ts" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/vue/types/vue.d.ts" afterPath="$PROJECT_DIR$/shopping/vue/types/vue.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/address.html" afterPath="$PROJECT_DIR$/address.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.html" afterPath="$PROJECT_DIR$/cart.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="cart.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="158" column="26" lean-forward="true" selection-start-line="158" selection-start-column="26" selection-end-line="158" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/address.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="999">
+              <caret line="113" column="44" lean-forward="true" selection-start-line="113" selection-start-column="44" selection-end-line="113" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/address.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/shopping" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="85" />
+    <option name="width" value="1400" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue 2.0 shopping cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue 2.0 shopping cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue 2.0 shopping cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue 2.0 shopping cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shopping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f151c494-f569-4d97-9610-db93313cbb95" name="Default" comment="" />
+      <created>1493694100722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493694100722</updated>
+      <workItem from="1493694102911" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="40" y="85" width="1400" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="113" column="44" lean-forward="true" selection-start-line="113" selection-start-column="44" selection-end-line="113" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="158" column="26" lean-forward="true" selection-start-line="158" selection-start-column="26" selection-end-line="158" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
